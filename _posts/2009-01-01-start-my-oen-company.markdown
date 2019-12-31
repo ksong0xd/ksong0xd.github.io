@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is my profile of Kyungsuk!"
-date:   2019-12-30 16:15:05 -0800
+date:   2009-01-01 01:01:01 -0800
 categories: jekyll update
 ---
 새로운 시작
