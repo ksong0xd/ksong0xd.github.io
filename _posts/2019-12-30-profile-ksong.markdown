@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "This is my profile of Kyungsuk!"
+title:  "post 2"
 date:   2019-12-30 16:15:05 -0800
-categories: jekyll update
+categories: cat2
 ---
 좋아요
 
